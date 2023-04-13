@@ -3,7 +3,7 @@
 #
 # variables
 #
-export AWS_PROFILE=default
+export AWS_PROFILE=egage-dev
 export PROJECT_NAME=multienv-vote
 export AWS_REGION=us-east-1
 # the directory containing the script file
