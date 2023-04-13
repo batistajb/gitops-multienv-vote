@@ -8,3 +8,5 @@ terraform.tfvars
 tfplan
 *.tfstate
 *.tfstate.*
+
+.idea
